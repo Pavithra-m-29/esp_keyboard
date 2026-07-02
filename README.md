@@ -50,12 +50,6 @@ This project demonstrates the interfacing of a **1x5 Tactile Matrix Keyboard/Key
 
 ---
 
-## Simulation & Hardware Preview
-Below is the hardware operational setup captured during development verification:
-
-![Circuit Schematic](WhatsApp%20Video%202026-07-02%20at%2010.09.46%20AM.mp4)
-
----
 
 ## Author
 Pavithra M
