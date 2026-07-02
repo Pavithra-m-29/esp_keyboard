@@ -1,9 +1,9 @@
 
-#define KEY1 2
-#define KEY2 3
-#define KEY3 4
-#define KEY4 5
-#define KEY5 6
+#define KEY1 D1
+#define KEY2 D2
+#define KEY3 D3
+#define KEY4 D4
+#define KEY5 D5
 
 void setup() {
   Serial.begin(9600);
